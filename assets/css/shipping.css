@@ -1,0 +1,16 @@
+.b2wl-small {
+	font-size: 9px;
+}
+
+.b2wl-error {
+	color: red;
+}
+
+.b2wl-hidden-shipping-recalc {
+    display: none;
+}
+
+.b2wl_shipping_field_container {
+	width: 400px; 
+	display: inline-block;
+}

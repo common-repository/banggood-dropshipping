@@ -1,0 +1,35 @@
+1.0.0 
+* Initial release
+
+1.1.0
+* Added random stock feature
+* Added default stock feature
+* Improved import feature (Now the plugin import variants from all warehouses)
+* Fixed stock import feature (Now it imports the correct stock amount)
+* Added information about premium plugin features
+* Updated pluin menu icon
+* Fixed minor bugs
+
+1.1.1
+* Fixed critical error occuring on the plugin activation
+
+1.2.0
+* Fixed random stock feature and convert attributes case feature
+* Fixed product import issues
+* Fixed compatibility with full plugin version
+* Fixed minor bugs
+
+1.2.1
+* Fixed duplicated old code that can cause problems
+
+1.2.11
+* Fixed edit price in import list
+* Fixed manage stock bug
+* Fixed bug "the filter rules are not saved"
+* Fixed bug "0 can't be set as default stock value in the plugin settings"
+* Fixed external IP address info
+* Fixed minor bugs
+
+
+
+
